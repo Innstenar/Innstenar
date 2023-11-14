@@ -9,4 +9,5 @@
 <img src="https://cdn.simpleicons.org/powershell/000/fff" alt="PowerShell 7" align=left width=50 height=50>
 <img src="https://cdn.simpleicons.org/html5/000/fff" alt="HTML5" align=left width=50 height=50>
 <img src="https://cdn.simpleicons.org/css3/000/fff" alt="CSS3" align=left width=50 height=50>
+<img src="https://cdn.simpleicons.org/javascript/000/fff" alt="JavaScript" align=left width=50 height=50>
 </p>
