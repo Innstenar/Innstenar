@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://cdn.simpleicons.org/python/000/fff" alt="Python" align=left width=50 height=50>
-<img src="https://cdn.simpleicons.org/lua/000/fff" alt="Lua" align=left width=50 height=50>
+<img src="https://cdn.simpleicons.org/unity/000/fff" alt="Unity" align=left width=50 height=50>
 <img src="https://cdn.simpleicons.org/html5/000/fff" alt="HTML5" align=left width=50 height=50>
 <img src="https://cdn.simpleicons.org/css3/000/fff" alt="CSS3" align=left width=50 height=50>
 <img src="https://cdn.simpleicons.org/markdown/000/fff" alt="Markdown" align=left width=50 height=50>
